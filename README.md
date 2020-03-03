@@ -1,10 +1,8 @@
 # BlazorOnEverything[<img src="logo_blazormobile_256x256.png?raw=true" align="right" width="200">]() 
 
-## Min version of Daddoon's brilliant approach to allow blazor to work on every platform available
+## A 'Min' version of Daddoon's brilliant approach to allow blazor to work on every platform!
 
-Not sure why Daddoon's work is not being used by MS. Out of the box you get an app with a full back-end support (Sqlite + LINQ). And it "just works" on every platform, including Sega Dreamcast, with just a few clicks.
-
-MS, you really should take a look! :)
+Not sure why Daddoon's work is not being used by MS. Out of the box you get an app with a full back-end support (Sqlite + LINQ). MS, you really should take a look! :)
 
 ## Preview Readme
 
