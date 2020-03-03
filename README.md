@@ -4,8 +4,10 @@
 
 Not sure why Daddoon's approach is not being used by MS, but it should. Out of the box you get an app with a full back-end (Sqlite + LINQ) and it just works.
 
-## Preview Readme
 
+I will post my "min **** needed to distribute" version of Daddon's great work.
+
+## Preview Readme
 
 Create full C# driven hybrid-apps for iOS, Android, UWP & Desktop with Blazor!
 
