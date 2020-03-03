@@ -1,5 +1,12 @@
 # BlazorMobile[<img src="logo_blazormobile_256x256.png?raw=true" align="right" width="200">]() 
 
+## My striped down version of Daddoon's brilliant approach to make blazor work on everything
+
+Not sure why Daddoon's approach is not being used by MS, but it should. Out of the box you get an app with a full back-end (Sqlite + LINQ) and it just works.
+
+## Preview Readme
+
+
 Create full C# driven hybrid-apps for iOS, Android, UWP & Desktop with Blazor!
 
 **BlazorMobile** - is a set of Nuget packages & project templates for embedding a Blazor web application as a standalone mobile application, hosted in Xamarin.
