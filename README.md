@@ -1,8 +1,8 @@
 # BlazorMobile[<img src="logo_blazormobile_256x256.png?raw=true" align="right" width="200">]() 
 
-## My striped down version of Daddoon's brilliant approach to make blazor work on everything
+## Min version of Daddoon's brilliant approach to make blazor work on everything
 
-Not sure why Daddoon's approach is not being used by MS, but it should. Out of the box you get an app with a full back-end (Sqlite + LINQ) and it just works.
+Not sure why Daddoon's work is not being used by MS. Out of the box you get an app with a full back-end support (Sqlite + LINQ) and it just works on every platform ever created with a few clicks.
 
 
 I will post my "min **** needed to distribute" version of Daddon's great work.
