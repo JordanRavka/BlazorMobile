@@ -1,4 +1,4 @@
-# BlazorMobile[<img src="logo_blazormobile_256x256.png?raw=true" align="right" width="200">]() 
+# BlazorOnEverything[<img src="logo_blazormobile_256x256.png?raw=true" align="right" width="200">]() 
 
 ## Min version of Daddoon's brilliant approach to make blazor work on everything
 
